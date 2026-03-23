@@ -1,1 +1,2 @@
-# Development-KODR
+This repository showcases my journey of learning web development using HTML, CSS, and JavaScript. It includes my practice work, small projects, and experiments that helped me understand the fundamentals of building modern web applications. Through this repo, I aim to strengthen my frontend development skills, improve problem-solving abilities, and gradually move towards becoming a full stack developer.<br>
+Author-Vansh Chaudhary
